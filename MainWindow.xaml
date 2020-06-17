@@ -1,0 +1,19 @@
+﻿<Window x:Class="NombreMystereWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NombreMystereWPF"
+        mc:Ignorable="d"
+        Title="Le nombre Mystère GUI" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid Margin="12">
+        <StackPanel>
+            <TextBlock Text="J'ai choisi un nombre entre 1 et 20, trouve le:"/>
+            <TextBlock x:Name="textBlockInfo"/>
+            <TextBlock x:Name="textBlockEssai" Text="Nombre d'essais: 0"/>
+            <TextBox x:Name="textBoxInput"/>
+            <Button x:Name="BtnSubmit" Content="Valider" Click="BtnSubmit_Click" />
+            <Button x:Name="BtnNewGame" Content="Nouvelle Partie" Click="BtnNewGame_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

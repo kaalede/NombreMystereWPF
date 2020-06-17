@@ -1,0 +1,15 @@
+D:\NombreMystere\NombreMystereWPF\bin\Debug\NombreMystereWPF.exe.config
+D:\NombreMystere\NombreMystereWPF\bin\Debug\NombreMystereWPF.exe
+D:\NombreMystere\NombreMystereWPF\bin\Debug\NombreMystereWPF.pdb
+D:\NombreMystere\NombreMystereWPF\obj\Debug\NombreMystereWPF.csprojAssemblyReference.cache
+D:\NombreMystere\NombreMystereWPF\obj\Debug\MainWindow.g.cs
+D:\NombreMystere\NombreMystereWPF\obj\Debug\App.g.cs
+D:\NombreMystere\NombreMystereWPF\obj\Debug\NombreMystereWPF_MarkupCompile.cache
+D:\NombreMystere\NombreMystereWPF\obj\Debug\NombreMystereWPF_MarkupCompile.lref
+D:\NombreMystere\NombreMystereWPF\obj\Debug\MainWindow.baml
+D:\NombreMystere\NombreMystereWPF\obj\Debug\NombreMystereWPF.g.resources
+D:\NombreMystere\NombreMystereWPF\obj\Debug\NombreMystereWPF.Properties.Resources.resources
+D:\NombreMystere\NombreMystereWPF\obj\Debug\NombreMystereWPF.csproj.GenerateResource.cache
+D:\NombreMystere\NombreMystereWPF\obj\Debug\NombreMystereWPF.csproj.CoreCompileInputs.cache
+D:\NombreMystere\NombreMystereWPF\obj\Debug\NombreMystereWPF.exe
+D:\NombreMystere\NombreMystereWPF\obj\Debug\NombreMystereWPF.pdb
